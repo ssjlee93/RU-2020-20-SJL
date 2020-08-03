@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Eɑt the burgər",
+        "screenshot": "./utils/screenshots/ru-12.PNG",
+        "github": "https://github.com/ssjlee93/RU-2020-12-SJL",
+        "deployed": "https://ru-2020-12-sjl.herokuapp.com/"
+    },
+    {
+        "id": "2",
+        "title": "My Workout buddy",
+        "screenshot": "./utils/screenshots/ru-pro-02.PNG",
+        "github": "https://github.com/ssjlee93/RU-2020-PRO-02-SJL",
+        "deployed": "https://ru-2020-proj-ct-02.herokuapp.com/"
+    },
+    {
+        "id": "3",
+        "title": "My Workout buddy",
+        "screenshot": "./utils/screenshots/ru-pro-02.PNG",
+        "github": "https://github.com/ssjlee93/RU-2020-PRO-02-SJL",
+        "deployed": "https://ru-2020-proj-ct-02.herokuapp.com/"
+    }
+]
